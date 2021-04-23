@@ -9,6 +9,11 @@ The Fibonacci sequence is the integer sequence where the first two terms are 0 a
 
 In the above program, the user is prompted to enter an index and returns the Fibonacci value that corresponds to the given index
 
+##How to start
+node app.js to run the fibonnaci secuence
+The secuence was started with number 12, the response is 144
+You will see the response in console
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
