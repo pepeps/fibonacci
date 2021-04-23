@@ -10,4 +10,4 @@ function fibonacci(n) {
   return fibo[n];
 }
 
-fibonacci(12);
+console.log(fibonacci(12));
